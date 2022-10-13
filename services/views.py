@@ -10,5 +10,5 @@ def home(request):
 def rom(request):
     return render(request,'room.html')
 
-def sin(request):
-    return render(request,'pool.html')
+def roh(request):
+    return render (request,'pool.html')
